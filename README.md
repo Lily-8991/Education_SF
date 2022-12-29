@@ -26,7 +26,7 @@
 ### Краткая информация о данных
 [База резюме, выгруженная с сайта поиска вакансий hh.ru](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)
 
-[Файл с выгрузкой курсов валют с сайта MFD.ru](https://github.com/Lily-8991/Education_SF/ExchangeRates.csv)
+[Файл с выгрузкой курсов валют с сайта MFD.ru](https://github.com/Lily-8991/Education_SF/blob/main/ExchangeRates.csv)
 
 :arrow_up:[к оглавлению](https://github.com/Lily-8991/Education_SF/README.md#Оглавление)
 
